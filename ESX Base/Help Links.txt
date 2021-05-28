@@ -1,0 +1,8 @@
+-- ESX --
+ESX Documentation: https://esx-framework.github.io/
+
+-- FIVEM NATIVES --
+Natives: https://docs.fivem.net/natives/
+Triggering Events: https://docs.fivem.net/docs/scripting-manual/working-with-events/triggering-events/
+Controls: https://docs.fivem.net/docs/game-references/controls/
+Ped Models: https://docs.fivem.net/docs/game-references/ped-models/
